@@ -10,7 +10,7 @@ class UserClass extends React.Component{
       userInfo: {
         name: "Dummy",
         location: "Default",
-        avatar_url:"htp://dummy"
+        // avatar_url:"htp://dummy"
       }
     };
   }
